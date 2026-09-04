@@ -1,0 +1,9 @@
+Within 20 rounds, FOXP3 eventually becomes active and remains active for 10 rounds.
+
+Within 29 rounds, species A eventually becomes inactive.
+
+A remains inactive until B becomes inactive within 15 rounds.
+
+A becomes active within 10 rounds and then returns to inactive within the next 20 rounds.
+
+FOXP3 equals 0 until round 5, then equals 1 by round 6 and lasts for 6 rounds, then equals 0 by round 13 and lasts for 6 rounds, and finally equals 1 by round 20 for 10 rounds.
